@@ -11,4 +11,4 @@ members: Tiffany, Megan, Denny
 
 Tiffany
 - Question 1 Broad: What player characteristics and behaviours are most predictive of subscribing to a game-related newsletter, and how do these features differ between various player types?
-- Question 1 Specific: ### _Can experience and played hours in PLAIcraft predict the likelihood of the players subscribing to a game-related newsletter?_ ###
+- Question 1 Specific: Can experience and played hours in PLAIcraft predict the likelihood of the players subscribing to a game-related newsletter?
