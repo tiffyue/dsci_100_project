@@ -1,4 +1,4 @@
-# dsci_100_project
+# dsci-100-project
 
 members: Tiffany, Megan, Denny
 
